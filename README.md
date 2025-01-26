@@ -1,16 +1,10 @@
-# notes_app
+# Notes App 📒✏️
 
-A new Flutter project.
+## Description
+A simple and intuitive notes app built using Flutter and Hive for local data storage. This app demonstrates best practices in Flutter development, state management, and efficient use of Hive for persistent local storage.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Add Notes: Create new notes with titles and descriptions.
+- Edit Notes: Modify existing notes.
+- Delete Notes: Remove unwanted notes easily.
+- Hive Integration: Leverages Hive for fast and lightweight data storage.
